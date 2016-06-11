@@ -15,7 +15,9 @@
 * [weiqi] (https://gitlab.com/mibitzi/weiqi.gs) - Open Source Weiqi server
 * [DGS] (http://www.dragongoserver.net/) - Dragon Server
 * [Lanke] (http://lanke.cc/) - Lanke Go server(in Chines)
-
+# Go Gui
+* [gobandroid] (https://github.com/ligi/gobandroid) - Goban for Andorid
+* [qgo] (https://github.com/pzorin/qgo) - Goban written in C++/Qt
 # Go game Bots
 * [pachi] (https://github.com/pasky/pachi) - Pachi bot (requires some work to get it set up)
 * [fuego] (http://fuego.sourceforge.net/) - Fuego bot (also requires some work)
@@ -31,3 +33,7 @@
 * [19x19] (http://cdn.online-go.com/kifu-en-19x19.pdf)
 * [13x13] (http://cdn.online-go.com/kifu-en-13x13.pdf)
 * [9x9] (http://cdn.online-go.com/kifu-en-9x9.pdf)
+
+# SGF viewers
+* [KindleSGF] (https://github.com/apetresc/KindleGoban) - SGF viewer for Kindle
+* 
