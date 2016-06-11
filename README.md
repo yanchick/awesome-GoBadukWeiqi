@@ -15,9 +15,11 @@
 * [weiqi] (https://gitlab.com/mibitzi/weiqi.gs) - Open Source Weiqi server
 * [DGS] (http://www.dragongoserver.net/) - Dragon Server
 * [Lanke] (http://lanke.cc/) - Lanke Go server(in Chines)
+
 # Go Gui
 * [gobandroid] (https://github.com/ligi/gobandroid) - Goban for Andorid
 * [qgo] (https://github.com/pzorin/qgo) - Goban written in C++/Qt
+
 # Go game Bots
 * [pachi] (https://github.com/pasky/pachi) - Pachi bot (requires some work to get it set up)
 * [fuego] (http://fuego.sourceforge.net/) - Fuego bot (also requires some work)
