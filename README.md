@@ -26,6 +26,7 @@
 * [GNUGo] (http://www.gnu.org/software/gnugo/beta.html) - GNU Go bot
 * [BetaGo] (https://github.com/maxpumperla/betago) -  BetaGo bot
 * [darkforestGo] (https://github.com/facebookresearch/darkforestGo) - Go bot from Facebook
+* [leeld] (http://www.sjeng.org/leela.html) - strong Go playing program
 
 # Go books
 * [81 Little Lions (9x9 intro)] (http://cdn.online-go.com/81_little_lions.pdf) 
