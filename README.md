@@ -39,4 +39,5 @@
 
 # SGF viewers
 * [KindleSGF] (https://github.com/apetresc/KindleGoban) - SGF viewer for Kindle
-* 
+* [web-go-board](https://chrome.google.com/webstore/detail/web-go-board/cdmhoehokaoghadonjfdbhieajggfbmd) - Chrome extension for viewing SGF
+* [web-gobaduk-board](https://addons.mozilla.org/ru/firefox/addon/web-gobaduk-board/)  - Firefox  extension for viewing SGF
