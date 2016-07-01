@@ -27,7 +27,8 @@
 * [BetaGo] (https://github.com/maxpumperla/betago) -  BetaGo bot
 * [darkforestGo] (https://github.com/facebookresearch/darkforestGo) - Go bot from Facebook
 * [leela] (http://www.sjeng.org/leela.html) - strong Go playing program
-
+* [Leben] (https://github.com/stephenmartindale/kgs-leben) - Leben  Bot
+* 
 # Go books
 * [81 Little Lions (9x9 intro)] (http://cdn.online-go.com/81_little_lions.pdf) 
 * [River Mountain Go 2 (20k-8k)](http://tigersmouth.org/downloads/RiverMtnGo-20k-8k.pdf) 
