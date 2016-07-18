@@ -16,9 +16,13 @@
 * [DGS] (http://www.dragongoserver.net/) - Dragon Server
 * [Lanke] (http://lanke.cc/) - Lanke Go server(in Chines)
 
-# Go Gui
+
+# Go UI(boards)
 * [gobandroid] (https://github.com/ligi/gobandroid) - Goban for Andorid
 * [qgo] (https://github.com/pzorin/qgo) - Goban written in C++/Qt
+* [goban] (https://github.com/eagleflo/goban) - simple goban written in Python
+* [jgoban] (https://github.com/parroit/jgoban) -  Html5 Goban
+* [tenuki.js] (https://github.com/aprescott/tenuki.js) - Js Goban* 
 
 # Go game Bots
 * [pachi] (https://github.com/pasky/pachi) - Pachi bot (requires some work to get it set up)
@@ -28,6 +32,7 @@
 * [darkforestGo] (https://github.com/facebookresearch/darkforestGo) - Go bot from Facebook
 * [leela] (http://www.sjeng.org/leela.html) - strong Go playing program
 * [Leben] (https://github.com/stephenmartindale/kgs-leben) - Leben  Bot
+* [AlphaGo] (https://github.com/tempbottle/AlphaGo) - AlphaGo bot (not from DeepMind)
  
 # Go books
 * [81 Little Lions (9x9 intro)] (http://cdn.online-go.com/81_little_lions.pdf) 
@@ -42,3 +47,4 @@
 * [KindleSGF] (https://github.com/apetresc/KindleGoban) - SGF viewer for Kindle
 * [web-go-board](https://chrome.google.com/webstore/detail/web-go-board/cdmhoehokaoghadonjfdbhieajggfbmd) - Chrome extension for viewing SGF
 * [web-gobaduk-board](https://addons.mozilla.org/ru/firefox/addon/web-gobaduk-board/)  - Firefox  extension for viewing SGF
+* [gofish] (https://github.com/fohristiwhirl/gofish) -  Tkiner based sgf viewer/editor
